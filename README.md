@@ -30,19 +30,19 @@ FEUP processes hundreds of Course Information Sheets annually. Historically, ens
 
 ## 📸 Product Showcase
 
-### 1. Management Dashboard (`dashboard.jpg`)
+### 1. Management Dashboard
 The entry point for Course Directors. A clean, search-oriented interface to quickly locate specific Curricular Units or manage assigned UCs from a centralized list.
 <p align="center">
-<img src="./assets/dashboard.jpg" width="90%" alt="Search Dashboard" />
+<img src="./assets/dashboard.png" width="90%" alt="Search Dashboard" />
 </p>
 
-### 2. UC Management Hub (`uc-page.jpg`)
+### 2. UC Management Hub
 Centralizes core metadata (ECTS, Year, Period). From here, directors can perform an immediate **"Análise Sigarra"** or enter **"Simular Texto"** mode to customize the syllabus before auditing.
 <p align="center">
-<img src="./assets/uc-page.jpg" width="85%" alt="UC Hub" />
+<img src="./assets/uc-page.png" width="85%" alt="UC Hub" />
 </p>
 
-### 3. Automated Analysis & Feedback (`analysis.png`)
+### 3. Automated Analysis & Feedback
 The system generates a detailed audit broken down by parameters (Objectives, Programmatic Topics, Methods). It provides qualitative analysis and a numerical score, flagging specific issues like duplicated objectives.
 <p align="center">
 <img src="./assets/analysis.png" width="85%" alt="AI Analysis Report" />
@@ -52,13 +52,13 @@ The system generates a detailed audit broken down by parameters (Objectives, Pro
 <summary><b>🛠️ View Advanced Features (Writing Simulator & Admin)</b></summary>
 <br />
 <p align="center">
-<strong>Writing Simulator (`writting-simulator.png`)</strong><br/>
+<strong>Writing Simulator</strong><br/>
 <img src="./assets/writting-simulator.png" width="80%" alt="Writing Simulator Interface" /><br/>
 <em>A sandbox where professors can stage edits and receive real-time AI feedback.</em>
 </p>
 <br/>
 <p align="center">
-<strong>Admin Settings (`admin-settings.png`)</strong><br/>
+<strong>Admin Settings</strong><br/>
 <img src="./assets/admin-settings.png" width="70%" alt="Admin Settings" /><br/>
 <em>Control panel for LLM selection and manual data synchronization.</em>
 </p>
